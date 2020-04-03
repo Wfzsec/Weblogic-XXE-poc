@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE data SYSTEM "http://192.168.3.199:8989/1.dtd" [
+        <!ELEMENT data (#PCDATA)>
+        ]>
+<data>data</data>
